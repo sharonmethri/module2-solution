@@ -11,7 +11,7 @@ h1 {
 }
 
 body {
-    background-image: url("f1.jpg");
+    background-image: url("E:\METHODIST/f1.jpg");
     background-color: #FEF5CA1;
     background-position: center;
     background-repeat: no-repeat;
@@ -38,7 +38,6 @@ section {
     width: 100%;
     height: 200px;
     font-family: serif;
-    color: black;
     position: relative;
     overflow: auto;
 }
@@ -91,9 +90,9 @@ section {
 }
 
 
-/* For viewing through computer desktop  */
+/* For viewing through desktop  */
 
-@media (min-width: 992px) {
+s @media (min-width: 992px) {
     .col-lg-1,
     .col-lg-2,
     .col-lg-3,
@@ -147,7 +146,7 @@ section {
 }
 
 
-/* For viewing through tabs */
+/* For viewing through tablets */
 
 @media (min-width: 768px) and (max-width: 991px) {
     .col-md-1,
@@ -203,7 +202,7 @@ section {
 }
 
 
-/*For viewing through mobile  */
+/*For viewing through mobiles  */
 
 @media (max-width: 768px) {
     .col-sm-1,
